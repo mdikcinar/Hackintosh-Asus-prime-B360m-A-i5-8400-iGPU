@@ -17,4 +17,4 @@
 
 # Issues
 1. Display goes off on login screen
-- Change display mode and come back again hdmi display mode.
+- Fix: Change display mode and come back again hdmi display mode.
