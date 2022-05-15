@@ -16,5 +16,5 @@
 | Other Settings    | https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings | 
 
 # Issues
--Display goes off on login screen
-Fix: Change display mode and come back again hdmi display mode.
+1. Display goes off on login screen
+- Change display mode and come back again hdmi display mode.
