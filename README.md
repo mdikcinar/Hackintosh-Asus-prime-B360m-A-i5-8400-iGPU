@@ -12,6 +12,6 @@
 # Requirements
 | Bios              |                      |
 | ----------------- | ---------------------|
-| Display Mode      | CPU                  | 
+| Display Mode      | CPU (Connect monitor to motherboard via hdmi)                 | 
 | Other Settings    | https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings | 
 
