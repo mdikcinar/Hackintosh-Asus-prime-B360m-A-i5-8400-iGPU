@@ -20,4 +20,4 @@
 1. Display goes off on login screen
 - Fix: Change display mode and come back again hdmi display mode.
 2. 630 uhd not recocnized by macos and screen glitches sometime
--Fix: Change your display mode Auto to CPU in your bios settings.
+- Fix: Change your display mode Auto to CPU in your bios settings.
